@@ -51,8 +51,7 @@ https://beh.land
 - GitHub: https://github.com/beh-land  
 
 ### 💠 BEHT Contract Address (TON)  
-*Will be added after mainnet deployment.*
-
+https://tonviewer.com/EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX
 ---
 
 ## 🔹 Version  
