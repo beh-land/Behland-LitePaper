@@ -41,8 +41,8 @@ BEHT is the core utility token powering access, rewards, NTT minting, upgrading,
 | **Network** | TON Blockchain |
 | **Total Supply** | **10,000,000 BEHT** |
 | **Primary Utilities** | VIP activation, NTT minting, rewards, access upgrades |
-| **Contract Address** | *(Will be added upon public deployment)* |
-| **TonViewer Link** | *(Coming soon)* |
+| **Contract Address** | *EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX* |
+| **TonViewer Link** | *https://tonviewer.com/EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX* |
 
 ---
 
