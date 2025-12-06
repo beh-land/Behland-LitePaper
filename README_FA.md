@@ -43,8 +43,6 @@
 | **کاربردها** | VIP، مینت NTT، پاداش‌ها، ارتقاها |
 | **آدرس قرارداد** | *EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX* |
 | **آدرس TonViewer** | *https://tonviewer.com/EQDvHmcleZnYu5f0waP0cSy-vsl9GfnXMkW_sBc721wByyGX* |
-| **TonViewer** | *(به‌زودی)* |
-
 ---
 
 # 🔹 معرفی  
